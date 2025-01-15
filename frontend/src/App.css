@@ -1,0 +1,98 @@
+.App {
+  text-align: center;
+}
+
+
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+.btn{
+  color: black;
+}
+
+.clearIcon {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+
+.material-icons.green {
+  color: green;
+}
+
+.material-icons.red {
+  color: red;
+}
+
+/* Style the pagination text color to black */
+.custom-pagination .page-link {
+  color: black;
+}
+
+/* Style the active page to have a different background color and text color */
+.custom-pagination .page-item.active .page-link {
+  
+  color: white; /* Change this to your desired text color */
+}
+
+/* Style the "Next" and "Previous" buttons with underline on hover */
+.custom-pagination .underline-on-hover:hover {
+  text-decoration: underline;
+}
+
+
+/* Style the "Previous" and "Next" buttons */
+.custom-pagination .page-link.prev,
+.custom-pagination .page-link.next {
+  color: black; /* Set the text color for "Previous" and "Next" buttons */
+}
+
+
+
+
+.custom-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.custom-image-container {
+  padding: 0.5rem; /* Adjust padding as needed */
+}
+
+.custom-image {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1 / 1; /* This makes the image square */
+  object-fit: cover; /* Adjust if you want a different fit */
+}
+
+.card-title, .card-text {
+  margin-left: 0.5rem; /* Align text to the left */
+}
+
+.text-price {
+  color: blue; /* Change to your desired color */
+}
+
+.text-shipping {
+  color: green; /* Change to your desired color */
+}
+
+.text-days {
+  color: red; /* Change to your desired color */
+}
+
+/* Additional styles for dropdowns if needed */
+
+
