@@ -65,5 +65,5 @@ Additional features include **wishlist management, seller details, product shari
 ```
 
 ## 📩 Contact  
-👨‍💻 Author: Simran Vaishya 
+👨‍💻 Author: Simran Vaishya  
 🔗 GitHub: https://github.com/simranvaishya53
